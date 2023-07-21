@@ -20,3 +20,9 @@ npm install -g @angular/cli
 $ npm install
 $ npm update
 ```
+### Guide to Create the Angular Project with Angular Material
+
+Prerequisites
+Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can check if Node.js is installed by typing node -v in the terminal, and for npm, type npm -v.
+
+
