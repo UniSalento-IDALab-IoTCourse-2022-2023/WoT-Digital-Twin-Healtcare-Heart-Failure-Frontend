@@ -24,5 +24,10 @@ $ npm update
 
 Prerequisites
 Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can check if Node.js is installed by typing node -v in the terminal, and for npm, type npm -v.
+Additionally, start the Flask server.
 
+### Project Creation
+Open the Node.js terminal and navigate to your desired working directory using the cd (change directory) command.
+
+![1](https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/WoT-Digital-Twin-Healtcare-Heart-Failure-Frontend/assets/140186334/97383dce-69b7-4e6d-a0f5-d4ebae509e9b)
 
