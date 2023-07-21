@@ -1,4 +1,5 @@
 The frontend was developed with Angular and CoreUI.
+
 Regarding CoreUI, a complete guide can be found on the Core UI website https://coreui.io/angular/docs/getting-started/introduction
 
 # Installation - CoreUI
