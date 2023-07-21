@@ -29,12 +29,13 @@ Additionally, start the Flask server.
 ### Project Creation
 Open the Node.js terminal and navigate to your desired working directory using the cd (change directory) command.
 
-![1](https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/WoT-Digital-Twin-Healtcare-Heart-Failure-Frontend/assets/140186334/97383dce-69b7-4e6d-a0f5-d4ebae509e9b)
+![1](https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/WoT-Digital-Twin-Healtcare-Heart-Failure-Frontend/assets/140186334/97383dce-69b7-4e6d-a0f5-d4ebae509e9b)  
 
 ### Angular Project Creation
 Run the following command to create a new Angular project using Angular CLI:
 
-![1](https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/WoT-Digital-Twin-Healtcare-Heart-Failure-Frontend/assets/140186334/7b22a13b-c093-4a97-80b5-d524f14ca7e3)
+![1](https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/WoT-Digital-Twin-Healtcare-Heart-Failure-Frontend/assets/140186334/7b22a13b-c093-4a97-80b5-d524f14ca7e3)  
+
 
 You will be presented with a series of questions:
 ### Would you like to add Angular routing? Answer: Yes
